@@ -27,9 +27,9 @@ function App() {
      <h1 className='text-white p-2 text-2xl'> new password is : {password}</h1> <br />
      
      <div className='flex gap-2 px-2 text-white'>
-     <button className='p-2 bg-blue-600 rounded-md '>Number Allow</button>
-     <button className='p-2 bg-blue-600 rounded-md '>Char Allow</button>
-      <button className='p-2 bg-blue-600 rounded-md '>Generate Password</button>
+     <button className='p-2 bg-red-600 rounded-md '>Number Allow</button>
+     <button className='p-2 bg-red-600 rounded-md '>Char Allow</button>
+      <button className='p-2 bg-red-600 rounded-md '>Generate Password</button>
      </div>
 
     </div>
